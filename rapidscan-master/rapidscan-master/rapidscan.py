@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#                               __         __
-#                              /__)_   '_/(  _ _
-#                             / ( (//)/(/__)( (//)
-#                                  /
-#                             MK SCORPION
-#
+#                               🅁🄰🄿🄸🄳🅂🄲🄰🄽
+#                               MƘ ƧƇƠƦƤƖƠƝ
+#     Rapidscan is a web application vulnerability scanner built on Python that has several functionalities. 
+#This tool's main objective is to detect all vulnerabilities through automation by running various scanning programmes to discover flaws.
+#                     Because it runs several scanning technologies.          
+#                                  
+#                   Each scan makes several time limits                                             
+#                          
+#                          
 
 # Importing the libraries
 import sys
