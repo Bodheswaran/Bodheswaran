@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-bodheswaranchandra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bodheswaranchandra@gmail.com)](mailto:bodheswaranchandra@gmail.com)
 
 ## :computer: System I perform
-* Windows
-* KALI Linux
-* <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='30'/> Android
+* <img src ='https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png' height='50'/> Windows
+* <img src ='https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa' height='50'/> KALI Linux 
+* <img src = 'https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png' height='50'/> Android
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='50'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='50'/>
