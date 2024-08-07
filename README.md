@@ -16,4 +16,4 @@
 <br/> <img src='https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png' height='70' /><br/> [Mongo DB](https://github.com/Bodheswaran/Certificate/wiki/MongoDB-Introduction)<br/>
 <br/><img src='https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/The_Open_University_logo.svg/2560px-The_Open_University_logo.svg.png' height='40'/> <br/>[Open University](https://github.com/Bodheswaran/Certificate/wiki/Open-University_Network-Security)
 <br/><img src='https://nforceit.com.au/wp-content/uploads/2023/09/nforceit-partner-microsoft-logo.png' height='70'/><br/> [Microsoft](https://github.com/Bodheswaran/Certificate/wiki/Microsoft) <br/>
-<br/><img src='https://upload.wikimedia.org/wikipedia/commons/9/96/UiPath_Logo.png' height='50'/><br/> Microsoft <br/> [UI Path](https://github.com/Bodheswaran/Certificate/wiki/UI-Path)
+<br/><img src='https://upload.wikimedia.org/wikipedia/commons/9/96/UiPath_Logo.png' height='50'/><br/>[UI Path](https://github.com/Bodheswaran/Certificate/wiki/UI-Path)
