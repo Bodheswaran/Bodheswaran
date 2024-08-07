@@ -10,4 +10,10 @@
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='50'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='50'/>
- 
+## Certification Gained
+<img src ='https://github.com/algolia/demo-salesforce/blob/master/imgs/salesforce-logo.png' height='50'/>  <br/>  Salesforce Virtual Intership <br/>
+<br/><img src ='https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=facebook' height='70'/> <br/> [EC Council](https://github.com/Bodheswaran/Certificate/wiki/EC-COUNCIL-Digital-Forensic-Essential-certificate)<br/>
+<br/> <img src='https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png' height='70' /><br/> Mongo DB<br/>
+<br/><img src='https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/The_Open_University_logo.svg/2560px-The_Open_University_logo.svg.png' height='40'/> <br/>Open University
+<br/><img src='https://nforceit.com.au/wp-content/uploads/2023/09/nforceit-partner-microsoft-logo.png' height='70'/><br/> Microsoft <br/>
+<br/><img src='https://upload.wikimedia.org/wikipedia/commons/9/96/UiPath_Logo.png' height='50'/><br/> Microsoft <br/> UI Path
