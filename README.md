@@ -1,21 +1,94 @@
-## Hii, I am Bodheswaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-<h1>Welcome to my Github Profile..</h1> 
+# Hi, I'm Bodheswaran S 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-bodheswaranchandra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bodheswaranchandra@gmail.com)](mailto:bodheswaranchandra@gmail.com)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&width=550&lines=B.E.+Cyber+Security+Graduate;Security+Automation+Engineer;Technical+Project+Leader;" alt="Typing SVG" />
+</p>
 
-## :computer: System I perform
-* <img src ='https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png' height='50'/> Windows
-* <img src ='https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa' height='50'/> KALI Linux 
-* <img src = 'https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png' height='50'/> Android
+---
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='50'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='50'/>
-## Certification Gained
-<img src ='https://github.com/algolia/demo-salesforce/blob/master/imgs/salesforce-logo.png' height='50'/>  <br/>  [Salesforce Virtual Intership](https://github.com/Bodheswaran/Certificate/wiki/Salesforce) <br/>
-<br/><img src ='https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=facebook' height='70'/> <br/> [EC Council](https://github.com/Bodheswaran/Certificate/wiki/EC-COUNCIL-Digital-Forensic-Essential-certificate)<br/>
-<br/> <img src='https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png' height='70' /><br/> [Mongo DB](https://github.com/Bodheswaran/Certificate/wiki/MongoDB-Introduction)<br/>
-<br/><img src='https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/The_Open_University_logo.svg/2560px-The_Open_University_logo.svg.png' height='40'/> <br/>[Open University](https://github.com/Bodheswaran/Certificate/wiki/Open-University_Network-Security)<br/>
-<br/><img src='https://nforceit.com.au/wp-content/uploads/2023/09/nforceit-partner-microsoft-logo.png' height='70'/><br/> [Microsoft](https://github.com/Bodheswaran/Certificate/wiki/Microsoft) <br/>
-<br/><img src='https://upload.wikimedia.org/wikipedia/commons/9/96/UiPath_Logo.png' height='50'/><br/>[UI Path](https://github.com/Bodheswaran/Certificate/wiki/UI-Path)<br/>
-<br/><img src='https://reg.nielitchennai.edu.in/fsprime/images/logo.png' height='50'/><br/>[Digital 101 Learning](https://github.com/Bodheswaran/Certificate/wiki/Digital-101-Learning)
+## 🛠️ Technical Skill Matrix
 
+⚡ *Hover over the badges to view proficiency frameworks*
+
+| Category | Technologies |
+| :--- | :--- |
+| **Core Security** | ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=kali-linux&logoColor=white) ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-20232A?style=for-the-badge) ![Network Defense](https://img.shields.io/badge/Network_Defense-0A84FF?style=for-the-badge) |
+| **Languages & Tooling** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Automation & Cloud** | ![UiPath](https://img.shields.io/badge/UiPath_RPA-FA4616?style=for-the-badge&logo=uipath&logoColor=white) ![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+
+---
+
+An enthusiastic and dedicated Cyber Security engineer focused on vulnerability assessment, automated threat mitigation, and secure script engineering. Adept at managing project lifecycles from inception to completion while ensuring alignment with technical and organizational goals. 
+
+📍 **Location:** Vridhachalam,Tamil Nadu, India  
+📧 **Email:** bodheswarans@gmail.com / bodheswarans@outlook.com  
+
+---
+
+## 🛠️ Technical Skill Matrix
+
+- **Core Security Domains:** Penetration Testing, Threat Knowledge, Digital Forensics, Network Defense, Vulnerability Analysis
+- **Languages & Automation:** Python (Security Tooling), Scripting Engine Architecture, RPA (UiPath Automation)
+- **Methodologies:** Technical Project Analysis, Secure Software Lifecycles, Analytical Problem Solving, Scientific Writing & Presentation
+
+---
+
+## 🛡️ Featured Security & Engineering Projects
+
+### ⚙️ [Cryptorix: A Cyber Script Engine]
+*A specialized python-driven execution engine designed to handle custom security and automation scripts.*
+- **Engineering:** Developed a modular framework in Python to compile, parse, and execute security-specific scripting tasks efficiently.
+- **Security Application:** Built to serve as a unified console for running localized reconnaissance, scanning, and payload handling utilities.
+- **Tech Stack:** Python, Core Scripting Logic.
+- **Publish:** Conferance CCICS 2025 " Best paper award ", **IJIRCCE** Volume-13  issue-4  April  2025
+
+### 🧹 [Automated Malicious Code Remover]
+*An automated tool designed to sanitize supply chain dependencies by scanning and parsing third-party source files.*
+- **Engineering:** Programmed an analytical script engine in Python capable of traversing file structures to isolate anomalous code signatures.
+- **Security Application:** Detects and programmatically strips unauthorized or malicious code injection blocks from open-source and third-party vendor code.
+- **Tech Stack:** Python, Signature Analysis, Static Code Security.
+
+### 🕸️ [System Core and Mesh Analyser]
+*A low-level network and system-level auditing tool developed for mesh-topology monitoring.*
+- **Engineering:** Built an infrastructure parsing utility in Python to capture operational health and telemetry data across distributed nodes.
+- **Security Application:** Map out system core communication flows to easily detect unauthorized lateral movement or structural single-points-of-failure.
+- **Tech Stack:** Python, Network Metrics, System Architecture.
+
+### 📜 [Patent 2025: Cross-Domain Software & Scholarly Artifact Verification Architecture]
+*An advanced cryptographic verification model protected via intellectual property filing.*
+- **Engineering:** Co-authored and engineered a technical framework designed to securely authenticate cross-domain software builds and scholarly documentation.
+- **Recognition:** Core architectural methodologies presented at **CCICS 2025**, earning the prestigious **"Best Paper Award"**.
+
+---
+
+## 🏆 Certifications & Professional Industry Credentials
+
+### 🔒 Core Cybersecurity Foundations
+- **ISC²:** Certified in Cybersecurity (CC) Domain
+- **Cisco:** Ethical Hacker
+- **EC-Council:** Ethical Hacking Essential (EHE)
+- **EC-Council:** Network Defense Essential (NDE)
+- **EC-Council:** Digital Forensic Essential (DFE)
+- **Open University:** Cyber Security Major Activity Practices & Network Security Completion
+
+### 🤖 Cloud & Automation Frameworks
+- **UiPath:** Automation Skills (RPA Engineering)
+- **Microsoft:** Azure AI Fundamentals
+
+---
+
+## 💼 Industry Internships
+
+- **Redyonx:** Cybersecurity Engineering Intern (Hands-on threat analysis and security implementation)
+- **Clifford Chance:** Global Cybersecurity Internship (Exposure to corporate security operations, risk management, and governance frameworks)
+- **Salesforce:** Virtual Internship (Cloud ecosystem security structures and platform mechanics)
+
+---
+
+## 🎓 Education
+
+- **Mahendra Engineering College (Namakkal, Tamil Nadu)**  
+  **B.E. in Cyber Security** (2022 - 2026) | **CGPA: 8.58 / 10**
+
+---
+🚀 *Open to immediate opportunities in Vulnerability Assessment, Penetration Testing, SOC Analysis, and Security Automation Engineering.*
