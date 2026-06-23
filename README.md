@@ -88,7 +88,7 @@ An enthusiastic and dedicated Cyber Security engineer focused on vulnerability a
 ## 🎓 Education
 
 - **Mahendra Engineering College (Namakkal, Tamil Nadu)**  
-  **B.E. in Cyber Security** (2022 - 2026) | **CGPA: 8.58 / 10**
+  **B.E. in Cyber Security** (2022 - 2026) | **CGPA: 8.65 / 10**
 
 ---
 🚀 *Open to immediate opportunities in Vulnerability Assessment, Penetration Testing, SOC Analysis, and Security Automation Engineering.*
